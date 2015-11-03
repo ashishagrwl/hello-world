@@ -1,3 +1,5 @@
+<< Changes made in branch b1 >>
+
 This sample project demonstrates the below:
 
 1.) Verifying fingerprints from file.
