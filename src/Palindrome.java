@@ -7,28 +7,19 @@
     Responsible: i311232
  */
 
-public class Palindrome
+public class test
 {
 
-    public static void main (String[] args)
-    {
-        // TODO Auto-generated method stub
-        
-        String str = "abc";
-        
-        for ( int i=0; i<str.length(); i++)
-        {
-            
+     public static void main(String args[])
+{
 
-            if (str.charAt(i) == str.charAt(i-1))
-            {
-                if(str.charAt(i-1) == str.charAt(i-2))
-                {
-                  System.out.println("String is palendriom");   
-                }
-            }
+      Integer x = 5;
+ 
+      x =  x + 10; 
+
+      System.out.println(x); 
         }
 
-    }
+
 
 }
